@@ -1,2 +1,2 @@
-# TemaClaro
-Alterar tema do windows para claro
+# TemaClaro e Escuro
+Alterar tema do windows para claro e escuro
